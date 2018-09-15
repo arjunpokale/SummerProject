@@ -1,0 +1,19 @@
+/*Navbar Color*/
+.bg-foodie {
+  background-color: #ee6e73;  
+}
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #ee6e73;
+   color: white;
+   text-align: center;
+}

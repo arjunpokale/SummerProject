@@ -1,0 +1,30 @@
+/*Button Color*/
+.btn-knowshare {
+    color: #fff;
+    background-color: #26a69a;
+    border-color: #26a69a;
+}
+/*Navbar Color*/
+.bg-knowshare {
+  background-color: #ee6e73;
+}
+
+.form-knowshare {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #26a69a;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.popover-body {
+    padding: .5rem .75rem;
+    color: #26a69a;
+}
+
